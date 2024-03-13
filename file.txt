@@ -1,2 +1,3 @@
 Some changes
 Changes on develop branch
+Conflict on the same line
